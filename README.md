@@ -17,16 +17,16 @@
   <!--- hay there --->
 <h1>
   Hay there!
-  <!--- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> --->
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
 </div>
 
- <!--- Programar Photo --->
+ <!--- Programar Photo 
 <div align="center">
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="600" height="300"/>
 </div>
-
+--->
 
 ---
 
