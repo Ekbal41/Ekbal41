@@ -13,13 +13,15 @@
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-</div>
-</div>
-<!--- hay there --->
+  <img src="https://komarev.com/ghpvc/?username=Ekbal41&style=flat-square&color=blue" alt=""/>
+  <!--- hay there --->
 <h1>
   Hay there!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+</div>
+</div>
+
  <!--- Programar Photo --->
 <div align="center">
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="600" height="300"/>
