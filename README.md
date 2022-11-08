@@ -12,11 +12,12 @@
   </a>
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+  </a><br>
   <img src="https://komarev.com/ghpvc/?username=Ekbal41&style=flat-square&color=blue" alt=""/>
   <!--- hay there --->
 <h1>
-  Hay there!
+  Assakamuwalaikum😊<br>
+  Hay There!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
