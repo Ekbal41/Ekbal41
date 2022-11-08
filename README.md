@@ -31,7 +31,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Newbie  Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bangladesh.
+I am a Junior  Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bangladesh.
 - :telescope: I’m working as a Developer in Taiuun.
 
 - :seedling: Exploring Technical Content Writing.
