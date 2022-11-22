@@ -13,6 +13,7 @@
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a><br>
+ 
   <img src="https://komarev.com/ghpvc/?username=Ekbal41&style=flat-square&color=blue" alt=""/>
   <!--- hay there --->
 <h1>
@@ -23,16 +24,13 @@
 </div>
 </div>
 
- <!--- Programar Photo 
-<div align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="600" height="300"/>
-</div>
---->
 
----
+<h1></h1>
 
 ### :man_technologist: About Me :
-I am a Junior  Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bangladesh.
+
+- :man_technologist: I am a Self-taught Programmer &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bangladesh.
+
 - :telescope: I’m working as a Developer in Taiuun.
 
 - :seedling: Exploring Technical Content Writing.
@@ -41,7 +39,7 @@ I am a Junior  Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
----
+<h1></h1>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -60,13 +58,27 @@ I am a Junior  Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
----
+<h1></h1>
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ekbal41&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ekbal41&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
----
+<h1></h1>
+
+<p>
+⚡ <b>Fun fact</b> <br>
+“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” — Martin Fowler
+</p>
+
+
+
+<p align="right">
+<img src="https://komarev.com/ghpvc/?username=Ekbal41&color=blue" alt="profile views" /> 
+<img src="https://img.shields.io/github/followers/Ekbal41" alt="followers" /> 
+<img src="https://img.shields.io/github/stars/Ekbal41?label=Profile%20Stars&logo=Profile%20stars&logoColor=g" alt="stars" /> 
+</p>
+</b>
 
 
 <!---
